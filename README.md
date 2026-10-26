@@ -1,16 +1,64 @@
-## Hi there 👋
+# V. Lakshan
 
-<!--
-**v-lakshan/v-lakshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Robotics | Hardware Design | Embedded Systems
 
-Here are some ideas to get you started:
+ECE Undergraduate at REVA University, Bengaluru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electronics and Communication Engineering student
+interested in designing and building real-world engineering
+systems, particularly robots and intelligent machines.
+
+I enjoy the complete engineering process — from designing
+mechanical parts and electronic circuits to programming
+microcontrollers, integrating hardware, and testing physical
+prototypes.
+
+My goal is to become a Robotics Engineer, developing
+practical robotic systems by combining mechanical design,
+electronics, embedded systems, and control engineering.
+
+## Career Direction
+
+- Robotics Engineering
+- Robot Design and Development
+- Autonomous Systems
+- Embedded Systems Engineering
+
+## Currently Learning
+
+- C and C++
+- Electronics and Circuit Design
+- Microcontrollers and Embedded Systems
+- Sensors, Actuators and Motor Control
+- CAD and 3D Design
+- PCB Design
+
+## Tools and Technologies
+
+- Fusion 360 — Mechanical Design and CAD
+- KiCad — PCB and Electronic Circuit Design
+- C / C++ — Embedded Programming
+- Microcontrollers — Hardware Control
+
+## Engineering Interests
+
+- Robot Design and Prototyping
+- Mechanical and Electronic Integration
+- Embedded Hardware
+- Control Systems
+- Autonomous Robotics
+- Testing and Troubleshooting
+
+## My Engineering Approach
+
+Design → Build → Integrate → Test → Improve
+
+## Projects
+
+Practical engineering projects, prototypes, designs,
+source code, and testing documentation will be added
+as I develop my skills.
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/lakshan-v-119396404
