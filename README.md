@@ -33,7 +33,7 @@ electronics, embedded systems, and control engineering.
 - CAD and 3D Design
 - PCB Design
 
-## Tools and Technologies
+## Technologies I’m Learning
 
 - Fusion 360 — Mechanical Design and CAD
 - KiCad — PCB and Electronic Circuit Design
